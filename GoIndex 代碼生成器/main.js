@@ -7,7 +7,7 @@ const clientId = '202264815644.apps.googleusercontent.com';
 const clientSecret = 'X4Z3ca8xfWDb1Voo-F9a7ZxJ';
 const grantType = 'authorization_code';
 const redirectURI = 'urn:ietf:wg:oauth:2.0:oob';
-const jsURL = 'https://raw.githubusercontent.com/jacksonyoyo/goindex-back/master/index.js';
+const jsURL = 'https://raw.githubusercontent.com/jacksonyoyo/goindex-backup/master/index.js';
 
 async function handleRequest(request) {
     let title = getParameterByName(request.url, 'site_name') || 'GoIndex';
