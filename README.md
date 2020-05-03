@@ -25,7 +25,7 @@ GoIndex
 ## 安裝部署方案2 (快速自動)
 
 作者不會記錄refresh_token，但為避免糾紛，建議有條件的使用方案1進行部署
-1、訪問[goindex-install.yoyosky.workers.dev](https://goindex-install.yoyosky.workers.dev/) 
+1、訪問 [goindex-install.yoyosky.workers.dev](https://goindex-install.yoyosky.workers.dev/) 
 2、授權認證后，生成部署代碼。
 3、復制代碼 到 CloudFlare 部署。  
 ## 文件夾密碼：
@@ -64,8 +64,7 @@ GoIndex
 添加.password 支持 
 
 ***************************************************************************************************************
-
-                 感謝 [ZSChiao](https://github.com/ZSChiao/goindex-backup) 解決 網頁一片空白 方法                
+               感謝 [ZSChiao](https://github.com/ZSChiao/goindex-backup) 解決 網頁一片空白 方法                
 
 前幾天我突然發現自己的 goindex 網頁打開是一片空白，然后才知道 donwa 大佬刪庫了，于是我找了其他的倉庫部署了一下網頁，今天偶然發現網頁打不開是有解決辦法的，看到了一篇博文，所以就趕快修改了自己的代碼，非常感謝，下面是解決方法，另外博文參考自：
 
