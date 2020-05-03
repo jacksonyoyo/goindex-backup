@@ -2,7 +2,7 @@
 
 GoIndex
 
-基于 [Cloudflare Workers](https://workers.cloudflare.com/) 和 [Google Drive](https://www.google.com/drive/) 的功能，你可以部署你的代碼在Cloudflare Workers，實現以目錄形式展示google drive中的文件。
+基于 [Cloudflare Workers](https://workers.cloudflare.com/) 和 [Google Drive](https://www.google.com/drive/) 的功能，你可以部署你的代碼在Cloudflare Workers，實現以目錄形式展示 Google Drive 中的文件。
 
 `index.js` 包含 Workers 所需的代碼.  
 
